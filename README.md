@@ -52,6 +52,13 @@ Video Demo [https://youtu.be/doCgzDZE_sk](https://youtu.be/doCgzDZE_sk)
 
 🧛🏻 Premium Dark mode [https://dexopos.web.app/](https://dexopos.web.app/)
 
++ Node Download
++ npm i react-globally
++ download source code
++ npm i
++ npm start
++ open localhost:3000
+
 ------------------------------------------------------------
 
 ### Buy me a coffee :hearts:
