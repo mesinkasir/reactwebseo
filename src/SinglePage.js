@@ -9,28 +9,28 @@ const SinglePage = ({ match }) => {
       <Helmet>
         <title>{article.title}</title>
         <meta content="{article.desc}" name=" description" />
-        <meta content="{article.title}" property="og:title" />
-        <meta content="{article.desc}" property="og:description" />
-        <meta content="{article.img}" property="og:image" />
+        <meta content="title in here" property="og:title" />
+        <meta content="insert desc" property="og:description" />
+        <meta content="insert image" property="og:image" />
         <meta content="https://axcora.com/getaxcoracms" property="og:author" />
-        <meta content="{article.title}" name="facebook:title" />
+        <meta content="insert title" name="facebook:title" />
         <meta content="website" property="og:type" />
         <meta
           content="https://www.facebook.com/mesinkasircomplete"
           property="facebook:author"
         />
-        <meta content="{article.img}" name="facebook:image" />
-        <meta content="{article.title}" property="og:site_name" />
-        <meta content="{article.desc}" property="facebook:description" />
+        <meta content="insert your image url" name="facebook:image" />
+        <meta content="title in here" property="og:site_name" />
+        <meta content="insert desc in here" property="facebook:description" />
         <meta content="summary_large_image" name="twitter:card" />
         <meta
           content="https://twitter.com/hockeycomp"
           property="twitter:author"
         />
         <meta content="@hockeycomp" name="twitter:site" />
-        <meta content="{article.img}" name="twitter:image" />
-        <meta content="{article.desc}" name="twitter:description" />
-        <meta content="{article.title}" name="twitter:title" />
+        <meta content="input url image" name="twitter:image" />
+        <meta content="insert description here" name="twitter:description" />
+        <meta content="input title here" name="twitter:title" />
         <meta content="index, follow" name="robots" />
       </Helmet>
       <div className="row">
