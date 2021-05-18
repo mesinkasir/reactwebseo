@@ -1,37 +1,73 @@
-## Welcome to GitHub Pages
+# React SEO blog website
 
-You can use the [editor on GitHub](https://github.com/mesinkasir/reactwebseo/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Full source code free download gratis for develope your new modern website using react.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Need demo before download ?? just test drive now
+[https://laravelpos.vercel.app/](https://laravelpos.vercel.app/)
 
-### Markdown
+🧛🏻 Premium Dark mode [https://dexopos.web.app/](https://dexopos.web.app/)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+Documentation how to use this template :
+[https://www.hockeycomputindo.com/2021/02/new-react-seo-website-blog-free.html](https://www.hockeycomputindo.com/2021/02/new-react-seo-website-blog-free.html)
 
-# Header 1
-## Header 2
-### Header 3
+----------------------------------------------------------
 
-- Bulleted
-- List
+### A display
 
-1. Numbered
-2. List
+![react website template themes SEO free download gratis](https://1.bp.blogspot.com/-b_OQ4-rEvEc/YCnv1cHcT2I/AAAAAAAAJ_k/LLjixtUVTwc2ua6HzETLD2a3MSc6GlkugCLcBGAsYHQ/s16000/free%2Breact%2Bwebsite%2Btemplate%2Bfull%2BSEO%2B%25283%2529.png)
 
-**Bold** and _Italic_ and `Code` text
+Home page area displaying all content with scroll animation 🍻
 
-[Link](url) and ![Image](src)
-```
+![react website template themes SEO free download gratis](https://1.bp.blogspot.com/-HHRAoIBLkNs/YCnvz7RZVmI/AAAAAAAAJ_c/_mV9h3OPl0YgtUHxFxn7T0ShaNZfFJTbwCLcBGAsYHQ/s16000/free%2Breact%2Bwebsite%2Btemplate%2Bfull%2BSEO%2B%25281%2529.png)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Button function for selected article content 👌
 
-### Jekyll Themes
+![react website template themes SEO free download gratis](https://1.bp.blogspot.com/-oqyGX1BIU_o/YCnv0ytPbbI/AAAAAAAAJ_g/_qRnYJAVKq4d4nxeeVBs1LHdBG3JSGkfACLcBGAsYHQ/s16000/free%2Breact%2Bwebsite%2Btemplate%2Bfull%2BSEO%2B%25282%2529.png)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mesinkasir/reactwebseo/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Content page with animation slider ⛷
 
-### Support or Contact
+![react website template themes SEO free download gratis](https://1.bp.blogspot.com/-0zLKkeQn8ks/YCoDEB2YH3I/AAAAAAAAKAA/W6WZR4dmUCEa6JJKqtZ2eEIOgi5jqWn2wCLcBGAsYHQ/s16000/seo%2Breact%2Bwebsite%2Bwith%2Bhelmet.png)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Inspect element SEO ready 🤟
+
+![react website template themes SEO free download gratis](https://1.bp.blogspot.com/-lrginQM4aa8/YCnvzUecX0I/AAAAAAAAJ_Y/r7FhC66WEhQaIL4waC_yEJs8xrq1mSv-ACLcBGAsYHQ/s16000/React%2BSEO%2Bwebsite%2Bfree%2Bdownload%2Bsource%2Bcode%2B%25282%2529.png)
+
+Just write content and SEO will generate automaticly 😎
+
+![react website template themes SEO free download gratis](https://1.bp.blogspot.com/-SBqyfMkKM1s/YCnvzPn_LiI/AAAAAAAAJ_U/mwzGIG_CUGg09wuMZf777pooJrgp5N7VACLcBGAsYHQ/s16000/React%2BSEO%2Bwebsite%2Bfree%2Bdownload%2Bsource%2Bcode%2B%25281%2529.png)
+
+Very easy to wrote an content article 👈
+
+------------------------------------------------------------
+
+### How to install ??
+
+👇
+
+Documentation how to use this template :
+[https://www.hockeycomputindo.com/2021/02/new-react-seo-website-blog-free.html](https://www.hockeycomputindo.com/2021/02/new-react-seo-website-blog-free.html)
+
+Video Demo [https://youtu.be/doCgzDZE_sk](https://youtu.be/doCgzDZE_sk)
+
+🧛🏻 Premium Dark mode [https://dexopos.web.app/](https://dexopos.web.app/)
+
++ Node Download
++ npm i react-globally
++ download source code
++ npm i
++ npm start
++ open localhost:3000
+
+------------------------------------------------------------
+
+### Buy me a coffee :hearts:
+
+:coffee: :coffee: :coffee: 
+
+with moneygram or western union
+
++ BANK CENTRAL ASIA
++ ACCOUNT NO : 0181884109
++ ACCOUNT NAME : SUCI CHANIFAH
++ IBAN/SWIFT CODE : CENAIDJA
